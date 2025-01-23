@@ -1,0 +1,17 @@
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.exe
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.deps.json
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.runtimeconfig.json
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.dll
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\GerenciadorDeTarefas.pdb
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.csproj.AssemblyReference.cache
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfoInputs.cache
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.AssemblyInfo.cs
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\Gerencia.0F884520.Up2Date
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.dll
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\refint\GerenciadorDeTarefas.dll
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.pdb
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\GerenciadorDeTarefas.genruntimeconfig.cache
+C:\Users\thiago.santos\Desktop\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\net8.0\ref\GerenciadorDeTarefas.dll

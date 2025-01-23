@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0wRyzGgI6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thiago.santos\\Desktop\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiago.santos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
